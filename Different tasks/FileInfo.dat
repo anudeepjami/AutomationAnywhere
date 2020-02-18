@@ -7,4 +7,18 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="SQL create sample data in your local database.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 17:18:28</Property>
+      <Property Name="RunDuration">00:01:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SQL.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 17:41:41</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
 </Entities>
