@@ -28,4 +28,11 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="Error Handling.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 21:28:25</Property>
+      <Property Name="RunDuration">00:01:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
 </Entities>
