@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="yo.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/09/2020 12:57:22</Property>
+      <Property Name="RunDuration">00:00:36</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="app integration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/10/2020 01:17:00</Property>
+      <Property Name="RunDuration">00:00:32</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SQL.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/14/2020 11:34:25</Property>
+      <Property Name="RunDuration">00:01:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
