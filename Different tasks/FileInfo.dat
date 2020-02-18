@@ -21,4 +21,11 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="Delay &amp; Email.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 18:00:18</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
 </Entities>
