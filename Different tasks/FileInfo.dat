@@ -42,4 +42,18 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="FTP or SFTP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 23:02:01</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Excel as Database.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/21/2020 11:49:36</Property>
+      <Property Name="RunDuration">00:00:15</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
 </Entities>
