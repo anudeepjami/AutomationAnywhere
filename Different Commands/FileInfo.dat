@@ -2,8 +2,8 @@
 <Entities>
   <Entity Name="ClipBoard.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/18/2020 15:48:10</Property>
-      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="LastRunTime">02/23/2020 20:10:05</Property>
+      <Property Name="RunDuration">00:00:14</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -44,8 +44,8 @@
   </Entity>
   <Entity Name="FTP or SFTP.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/18/2020 23:02:01</Property>
-      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="LastRunTime">02/23/2020 17:03:42</Property>
+      <Property Name="RunDuration">00:01:15</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
