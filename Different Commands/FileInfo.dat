@@ -44,15 +44,22 @@
   </Entity>
   <Entity Name="FTP or SFTP.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/23/2020 17:03:42</Property>
-      <Property Name="RunDuration">00:01:15</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">03/01/2020 02:47:13</Property>
+      <Property Name="RunDuration">00:00:04</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="Excel as Database.atmx">
     <Properties>
       <Property Name="LastRunTime">02/21/2020 11:49:36</Property>
       <Property Name="RunDuration">00:00:15</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="terminal emulator.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/24/2020 23:29:31</Property>
+      <Property Name="RunDuration">00:00:20</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
